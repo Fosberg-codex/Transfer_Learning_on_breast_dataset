@@ -32,12 +32,12 @@ In the repository, all the two models trained with has a Jupyter Notebook (.ipyn
 ## Usage
 To replicate the experiments:
 1. Clone this GitHub repository and run it in Google Colab.
-3. Download the RSNA dataset from [RSNA dataset](https://www.kaggle.com/datasets/rahelsarif/mammography-images-converted-to-jpeg-512512px) or use your own dataset.
+2. Download the RSNA dataset from [RSNA dataset](https://www.kaggle.com/datasets/rahelsarif/mammography-images-converted-to-jpeg-512512px) or use your own dataset.
 ### In the codes
-4. Pre-process the dataset.
-5. Train the desired model.
-6. Evaluate the trained model.
-7. Analyze and interpret the results.
+3. Pre-process the dataset.
+4. Train the desired model.
+5. Evaluate the trained model.
+6. Analyze and interpret the results.
 
 ## Results
 
