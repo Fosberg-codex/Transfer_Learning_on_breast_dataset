@@ -26,6 +26,9 @@ The dataset used consists of mammogram images obtained from the RSNA dataset. Th
 4. **Evaluation**: Assess the model's performance using appropriate evaluation metrics.
 5. **Comparison**: Compare the performance of ResNet18 and ResNet34 models.
 
+## Files
+In the repository, all the two models trained with has a Jupyter Notebook (.ipynb) and a Python(.py) file extension each.
+
 ## Usage
 To replicate the experiments:
 1. Clone this GitHub repository and run it in Google Colab.
@@ -41,7 +44,7 @@ To replicate the experiments:
 The project repository contains model performance metrics and visualizations.
 
 ## Demo Web APP
-- 
+- [Wep App with ResNet18](https://huggingface.co/spaces/Addai/Breast_cancer_detection_with_deep_transfer_learning)
 
 ## Conclusion
 
