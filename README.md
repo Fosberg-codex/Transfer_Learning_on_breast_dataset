@@ -53,3 +53,4 @@ This project contributes to breast cancer detection research by investigating de
 For questions or collaborations, contact the following research authors:
 - fosberg1addai@gmail.com
 - ysubaar@gmail.com
+- abbeyshadrack22@gmail.com
